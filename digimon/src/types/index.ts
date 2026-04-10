@@ -1,0 +1,1 @@
+export type { Digimon } from './Digimon';
